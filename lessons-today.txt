@@ -1,0 +1,13 @@
+I've learn't following Git Command today.
+
+1. "git init" : this command is used to initialize git in the working directory (that is your project directory).
+
+2. "git status" : this command is used to check if their is any untracked file in working directory.
+
+3. "git add <filename>" : this command is used to add "file" into staging from where it get's tracked.
+
+4. "git add . " : used to add multiply files into staging. just by adding "." punctuation.
+
+5. "git commit -m '<message>'" : It is used to commit changes to the local repo or on github.
+
+ 
